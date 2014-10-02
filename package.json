@@ -1,0 +1,16 @@
+{
+  "name": "wp_type_exporter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "js2xmlparser": "^0.1.5",
+    "underscore": "1.7.0",
+    "xml2js": "^0.4.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
